@@ -1,2 +1,2 @@
-# react-web-portfollio
+# react-web-projects
 A personal webpage showcasing my technical skillset and what I have accomplished.
