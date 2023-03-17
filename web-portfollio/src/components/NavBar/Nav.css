@@ -1,0 +1,24 @@
+#neubar {
+    background: rgb(255, 255, 255);
+  }
+  
+
+  #neubar .nav-item {
+    margin : auto 4px;
+  }
+
+  #neubar a:hover {
+    background-color: rgb(227, 247, 248);
+  }
+
+
+
+  #neubar a {
+    
+    padding-left:12px;
+    padding-right:12px;
+  }
+
+
+
+
