@@ -1,0 +1,13 @@
+.h {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+
+  p {
+    font-family: Georgia;
+    font-weight:200;
+  }

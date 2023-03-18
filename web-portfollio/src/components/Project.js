@@ -36,6 +36,36 @@ function pics() {
                 />
                 
             </Carousel.Item>
+
+            <Carousel.Item>
+                <img 
+                    className = "d-block w-100"
+                    src = "https://media.discordapp.net/attachments/605298969874268160/1086638024655384707/car.PNG"
+                    alt = "Four"
+                />
+                
+            </Carousel.Item>
+
+            <Carousel.Item>
+                <img 
+                    className = "d-block w-100"
+                    src ="https://media.discordapp.net/attachments/605298969874268160/1086638024407912488/car2.PNG"
+                    alt = "Five"
+                />
+                
+            </Carousel.Item>
+
+            <Carousel.Item>
+                <img 
+                    className = "d-block w-100"
+                    src ="https://media.discordapp.net/attachments/605298969874268160/1086638024135278663/car3.PNG"
+                    alt = "Six"
+                />
+                
+            </Carousel.Item>
+
+          
+
            
         </Carousel>
 
