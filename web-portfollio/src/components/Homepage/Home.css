@@ -7,6 +7,11 @@
     width: 50%;
   }
 
+  .column2 {
+    float: right;
+    width: 50%;
+  }
+
   p {
     font-family: Georgia;
     font-weight:200;

@@ -19,8 +19,12 @@ const Home = props => {
                     <p>I am located in Houston, Texas and graduated with a Bachelors in Computer Information Systems. Asides from programming, my other interests lies in attaining knowledge from indisciplinary fields, such as Physics, Philosophy, Social Sciences, and Logic.</p>
                     <p>I was taught a diverse understanding of different technologies and languages. With these knowledge acquisitions, I aim to be a jack of all trades with web development.</p>
                 </div>
-                <div class="column">
-                    <p></p>
+                <div class="column2">
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <p>asdfasd</p>
                 </div>
            </div>
             <h1 class="h">CONTACT</h1>
