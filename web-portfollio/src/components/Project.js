@@ -15,7 +15,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src = "https://media.discordapp.net/attachments/1019322682384330843/1022179969612394556/unknown.png?width=991&height=505"
+                    src = "https://image-ms.s3.amazonaws.com/Car1.png"
                     alt = "One"
                 />
                 
@@ -23,7 +23,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src = "https://cdn.discordapp.com/attachments/1019322682384330843/1022180005154934885/unknown.png"
+                    src = "https://image-ms.s3.amazonaws.com/Car2.png"
                     alt = "Two"
                 />
                 
@@ -31,7 +31,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src = "https://media.discordapp.net/attachments/1019322682384330843/1022180100130734080/unknown.png?width=991&height=450"
+                    src = "https://image-ms.s3.amazonaws.com/Car3.png"
                     alt = "Three"
                 />
                 
@@ -40,7 +40,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src = "https://media.discordapp.net/attachments/605298969874268160/1086638024655384707/car.PNG"
+                    src = "https://image-ms.s3.amazonaws.com/Car4.png"
                     alt = "Four"
                 />
                 
@@ -49,7 +49,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src ="https://media.discordapp.net/attachments/605298969874268160/1086638024407912488/car2.PNG"
+                    src ="https://image-ms.s3.amazonaws.com/Car5.png"
                     alt = "Five"
                 />
                 
@@ -58,7 +58,7 @@ function pics() {
             <Carousel.Item>
                 <img 
                     className = "d-block w-100"
-                    src ="https://media.discordapp.net/attachments/605298969874268160/1086638024135278663/car3.PNG"
+                    src ="https://image-ms.s3.amazonaws.com/Car6.png"
                     alt = "Six"
                 />
                 

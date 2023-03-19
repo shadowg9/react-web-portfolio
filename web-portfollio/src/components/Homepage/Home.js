@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
-import Button from 'react-bootstrap/Button'
-import Form from 'react-bootstrap/Form';
+
+import * as Icon from 'react-bootstrap-icons';
 
 
 
@@ -10,41 +10,59 @@ const Home = props => {
         
         <div>
             <h1 class="h">Mohammed Sajjad</h1>
-            <h2 class="h">Full-Stack Web Developer</h2>
+            <h2 class="h"><a href="https://github.com/shadowg9" target="_blank"> <Icon.Github size={40}/>  </a>Full-Stack Web Developer<a href="https://www.linkedin.com/in/mohammed-sajjad-141889214/" target="_blank"> <Icon.Linkedin size={40}/>  </a></h2>
 
+            
+
+
+ 
+  
+  <img src="https://cdn.discordapp.com/attachments/605298969874268160/1087012769271910400/codingpic.PNG" class="center"/>
+
+  
+
+
+            
+
+            
             <h1 class="h">ABOUT ME</h1>
             <div class="row">
                 <div class="column">
-                    <p>I am an avid full-stack programmer seeking to perfect my craft and aspire to make positive contirbutions for future clients and companies, and in doing so I hope to continue develop and cultivate my technical skills.  </p>
+                    <p>I am an avid full-stack programmer seeking to perfect my craft and aspire to make positive contirbutions for future clients and companies, and in doing so I hope to continue to develop and cultivate my technical skills.  </p>
                     <p>I am located in Houston, Texas and graduated with a Bachelors in Computer Information Systems. Asides from programming, my other interests lies in attaining knowledge from indisciplinary fields, such as Physics, Philosophy, Social Sciences, and Logic.</p>
                     <p>I was taught a diverse understanding of different technologies and languages. With these knowledge acquisitions, I aim to be a jack of all trades with web development.</p>
                 </div>
                 <div class="column2">
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <p>asdfasd</p>
+                    
+                    <div class="image">
+                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
+                    <p>React</p>
+                    
+                   
+                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
+                    <p>React</p>
+                    </div>
+
+                    <div class="image2">
+                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
+                    <p>React</p>
+                    
+                   
+                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
+                    <p>React</p>
+                    </div>
+                   
+                    
+                    
                 </div>
            </div>
             <h1 class="h">CONTACT</h1>
             <form>
-                
-                <Form.Group className="mb-3" controlId="formBasicEmail">
-                    <Form.Label>Email address</Form.Label>
-                    <Form.Control type="email" placeholder="Enter email" />
-                    <Form.Text className="text-muted">
-                    </Form.Text>
-                </Form.Group>
 
-                <Form.Group className="mb-3" controlId="formBasicPassword">
-                    <Form.Label>Password</Form.Label>
-                    <Form.Control type="password" placeholder="Password" />
-                </Form.Group>
-
-                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                    <Form.Check type="checkbox" label="Check me out" />
-                </Form.Group>
+            <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+            <input name="email" type="text" class="feedback-input" placeholder="Email" />
+            <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
+            <input type="submit" value="SUBMIT"/>
 
             </form>
             
