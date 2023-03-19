@@ -18,6 +18,9 @@ const Nav = props => {
             <li class="nav-item">
               <a class="nav-link mx-2 active" href="/">Home</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link mx-2 active" href="#contact">Contact</a>
+            </li>
           
             <li class="nav-item">
               <a class="nav-link mx-2 active" href="proj">Projects</a>

@@ -12,14 +12,18 @@
     width: 50%;
   }
 
+  .logos {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    grid-template-rows: 200px 150px 
+  }
+
   p {
     font-family: Georgia;
     font-weight:200;
   }
 
-  .image {
-    text-align: center;
-  }
+ 
 
   .center {
     display: block;
@@ -28,8 +32,12 @@
     width: 50%;
   }
 
+  .image {
+    text-align: center;
+  }
+
   .logo {
-    width: 10%;
+    width: 40%;
   }
  
 

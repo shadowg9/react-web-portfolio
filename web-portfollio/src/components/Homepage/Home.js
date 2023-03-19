@@ -33,30 +33,55 @@ const Home = props => {
                     <p>I was taught a diverse understanding of different technologies and languages. With these knowledge acquisitions, I aim to be a jack of all trades with web development.</p>
                 </div>
                 <div class="column2">
+
+                    <div class="logos">
                     
                     <div class="image">
                     <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
                     <p>React</p>
                     
                    
-                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
-                    <p>React</p>
+                    <p><img src="https://image-ms.s3.amazonaws.com/nodejs.png" class="logo"/></p>
+                    <p>NodeJS</p>
                     </div>
 
-                    <div class="image2">
-                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
-                    <p>React</p>
+                    <div class="image">
+                    <p><img src="https://image-ms.s3.amazonaws.com/mysql.png" class="logo"/></p>
+                    <p>MySQL</p>
                     
                    
-                    <p><img src="https://image-ms.s3.amazonaws.com/react.png" class="logo"/></p>
-                    <p>React</p>
+                    <p><img src="https://image-ms.s3.amazonaws.com/mongodb.png" class="logo"/></p>
+                    <p>MongoDB</p>
+                    </div>
+
+                    <div class="image">
+                    <p><img src="https://image-ms.s3.amazonaws.com/java.png" class="logo"/></p>
+                    
+                    
+                   
+                    <p><img src="https://image-ms.s3.amazonaws.com/springboot.png" class="logo"/></p>
+                    <p>SpringBoot</p>
+                    </div>
+
+                    <div class="image">
+                    <p><img src="https://image-ms.s3.amazonaws.com/git.png" class="logo"/></p>
+                    <p>Git</p>
+                    
+                   
+                    <p><img src="https://image-ms.s3.amazonaws.com/aws.png" class="logo"/></p>
+                    <p>AWS Cloud</p>
+                    </div>
+
                     </div>
                    
                     
                     
                 </div>
            </div>
-            <h1 class="h">CONTACT</h1>
+
+           
+           
+            <h1 class="h" id="contact">CONTACT</h1>
             <form>
 
             <input name="name" type="text" class="feedback-input" placeholder="Name" />   
@@ -65,6 +90,10 @@ const Home = props => {
             <input type="submit" value="SUBMIT"/>
 
             </form>
+
+         
+
+        
             
            
 
