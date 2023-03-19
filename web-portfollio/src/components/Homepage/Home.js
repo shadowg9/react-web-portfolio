@@ -82,7 +82,7 @@ const Home = props => {
            
            
             <h1 class="h" id="contact">CONTACT</h1>
-            <form>
+            <form method="post" action="https://formsubmit.co/mohammedsajjad1017@gmail.com">
 
             <input name="name" type="text" class="feedback-input" placeholder="Name" />   
             <input name="email" type="text" class="feedback-input" placeholder="Email" />
