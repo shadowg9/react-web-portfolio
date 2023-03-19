@@ -18,6 +18,7 @@ function pics() {
                     src = "https://image-ms.s3.amazonaws.com/Car1.png"
                     alt = "One"
                 />
+                <p>Home Page</p>
                 
             </Carousel.Item>
             <Carousel.Item>
@@ -26,6 +27,7 @@ function pics() {
                     src = "https://image-ms.s3.amazonaws.com/Car2.png"
                     alt = "Two"
                 />
+                <p>Login Page</p>
                 
             </Carousel.Item>
             <Carousel.Item>
@@ -34,6 +36,7 @@ function pics() {
                     src = "https://image-ms.s3.amazonaws.com/Car3.png"
                     alt = "Three"
                 />
+                <p>Registration Page</p>
                 
             </Carousel.Item>
 
@@ -43,6 +46,7 @@ function pics() {
                     src = "https://image-ms.s3.amazonaws.com/Car4.png"
                     alt = "Four"
                 />
+                <p>Table of Available Cars</p>
                 
             </Carousel.Item>
 
@@ -52,6 +56,7 @@ function pics() {
                     src ="https://image-ms.s3.amazonaws.com/Car5.png"
                     alt = "Five"
                 />
+                <p>Users Table + Profile Dropdown</p>
                 
             </Carousel.Item>
 
@@ -61,6 +66,7 @@ function pics() {
                     src ="https://image-ms.s3.amazonaws.com/Car6.png"
                     alt = "Six"
                 />
+                <p>Form to Register Vehicle into Table</p>
                 
             </Carousel.Item>
 
@@ -68,6 +74,9 @@ function pics() {
 
            
         </Carousel>
+
+        <h4>Description</h4>
+        <p></p>
 
         </div>
     );
