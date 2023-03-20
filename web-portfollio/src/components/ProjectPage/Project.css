@@ -2,6 +2,38 @@ p {
     font-family: Georgia;
 }
 
-.hiddenText {
+#hiddenText {
+    display: none;
+}
+
+#hiddenText1 {
+    display: none;
+}
+
+#hiddenText2 {
+    display: none;
+}
+
+#hiddenText3 {
+    display: none;
+}
+
+#hiddenText4 {
+    display: none;
+}
+
+#hiddenText5 {
+    display: none;
+}
+
+#hiddenText6 {
+    display: none;
+}
+
+#hiddenText7 {
+    display: none;
+}
+
+#hiddenText8 {
     display: none;
 }
