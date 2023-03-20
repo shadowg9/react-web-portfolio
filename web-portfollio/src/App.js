@@ -4,6 +4,7 @@ import './App.css';
 import Nav from './components/NavBar/Nav';
 import Home from './components/Homepage/Home';
 import Project from './components/ProjectPage/Project';
+///react-web-portfolio for github pages; in local you take that off
 
 
 
@@ -17,7 +18,7 @@ function App() {
       <div className="container">
       <Routes>
         <Route path="/react-web-portfolio" exact element={<Home />}  />
-        <Route path="/proj" exact element={<Project />} />
+        <Route path="/react-web-portfolio/proj" exact element={<Project />} />
 
 
       </Routes>
