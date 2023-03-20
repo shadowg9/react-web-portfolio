@@ -1,7 +1,7 @@
 {
   "name": "web-portfollio",
   "version": "0.1.0",
-  "homepage": "https://shadowg9.github.io/react-web-projects",
+  "homepage": "https://shadowg9.github.io/react-web-projects/web-portfollio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
