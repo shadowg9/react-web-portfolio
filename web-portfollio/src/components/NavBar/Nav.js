@@ -17,14 +17,16 @@ const Nav = props => {
         <div class=" collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ms-auto ">
             <li class="nav-item">
-              <a class="nav-link mx-2 active" href="/react-web-portfolio">Home</a> 
+              {/* <a class="nav-link mx-2 active" href="/react-web-portfolio">Home</a>  */}
+              <a class="nav-link mx-2 active" href="/">Home</a> 
             </li>
             <li class="nav-item">
               <a class="nav-link mx-2 active" href="#contact">Contact</a>
             </li>
           
             <li class="nav-item">
-              <a class="nav-link mx-2 active" href="/react-web-portfolio/proj">Projects</a>
+              {/* <a class="nav-link mx-2 active" href="/react-web-portfolio/proj">Projects</a> */}
+              <a class="nav-link mx-2 active" href="/proj">Projects</a>
             </li>
             <li class="nav-item">
               <a class="nav-link mx-2 active" href="https://resume-ms.s3.amazonaws.com/Resume+-+Mohammed+Sajjad.pdf" target="_blank" id="res">Resume</a>
