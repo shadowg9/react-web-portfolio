@@ -9,7 +9,7 @@ const Nav = props => {
       <div class="container">
 
       
-     <a href="/" > <Icon.Person size={40}/>  Mohammed Sajjad </a>
+     <a href="https://www.linkedin.com/in/mohammed-sajjad-141889214/" target="_blank" > <Icon.Person size={40}/>  Mohammed Sajjad </a>
       
       
     
