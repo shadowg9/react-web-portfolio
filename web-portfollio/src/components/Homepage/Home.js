@@ -17,7 +17,7 @@ const Home = props => {
 
  
   
-  <img src="https://cdn.discordapp.com/attachments/605298969874268160/1087012769271910400/codingpic.PNG" class="center"/>
+  <img src="https://image-ms.s3.amazonaws.com/codingpic.PNG" class="center"/>
 
   
 
