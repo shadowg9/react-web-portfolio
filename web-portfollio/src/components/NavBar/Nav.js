@@ -29,7 +29,7 @@ const Nav = props => {
               <a class="nav-link mx-2 active" href="/proj">Projects</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mx-2 active" href="https://resume-ms.s3.amazonaws.com/Resume+-+Mohammed+Sajjad.pdf" target="_blank" id="res">Resume</a>
+              <a class="nav-link mx-2 active" href="https://resume-ms.s3.amazonaws.com/Resume+-+Mohammed_Sajjad.pdf" target="_blank" id="res">Resume</a>
 
             </li>
           </ul>
